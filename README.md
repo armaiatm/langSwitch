@@ -1,5 +1,5 @@
 # langSwitch
-Because ‘hruv’ was supposed to be שלום — a simple AHK applet to fix Hebrew/English layout slips.
+Because ‘akuo’ was supposed to be שלום — a simple AHK applet to fix Hebrew/English layout slips.
 
 This AutoHotkey script saves you from retyping when you accidentally type in the wrong keyboard layout (Hebrew ↔ English). 
 Simply select the mistaken text and press CTRL+SHIFT+L — the script will convert it into the other language, 
