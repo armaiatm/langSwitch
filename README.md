@@ -6,3 +6,6 @@ Simply select the mistaken text and press CTRL+SHIFT+L — the script will conve
 preserving your original input while fixing the layout error.
 
 No more backspacing entire sentences just because your keyboard was in the wrong mode. Lightweight, fast, and frustration-proof.
+
+
+AutoHotKey is at https://www.autohotkey.com/
