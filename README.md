@@ -9,3 +9,5 @@ No more backspacing entire sentences just because your keyboard was in the wrong
 
 
 AutoHotKey is at https://www.autohotkey.com/
+
+Amit Raam
