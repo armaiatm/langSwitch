@@ -13,7 +13,13 @@
         "m", "צ", "n", "מ", "o", "ם", "p", "פ", "q", "/", "r", "ר",
         "s", "ד", "t", "א", "u", "ו", "v", "ה", "w", "'", "x", "ס",
         "y", "ט", "z", "ז",
-		",", "ת"
+		",", "ת",
+		".", "ץ",
+		";", "ף",
+		"'", ",",
+		"(", ")",
+		")", "(",
+		
     )
 
     ; Build reverse map
@@ -37,4 +43,10 @@
     Send "^v"
     Sleep 100
     A_Clipboard := origClip
+	Send "{Shift Up}"
+    Send "{Ctrl Up}"
+	
+	;also switch language: !s::  ; Alt+S to switch language instantly
+	Send "{LAlt Shift}"
+return	
 }
