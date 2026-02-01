@@ -1,6 +1,6 @@
 # langSwitch
 Because ‘akuo’ was supposed to be שלום — a simple AHK applet to fix Hebrew/English layout slips.
-
+Fix typinng on the wrong keyboard language.
 This AutoHotkey script saves you from retyping when you accidentally type in the wrong keyboard layout (Hebrew ↔ English). 
 Simply select the mistaken text and press CTRL+SHIFT+L - the script will convert it into the other language, 
 preserving your original input while fixing the layout error.
